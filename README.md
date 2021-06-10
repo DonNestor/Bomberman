@@ -4,6 +4,7 @@ This is a cool retro Bomberman game.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Screenshot from game](#screenshot)
 * [Ideas for to do](#ideas)
 
 ## General info
@@ -15,6 +16,7 @@ Project is created with:
 * HTML5
 * Canvas
 
+### Screenshot
 ![Game](/img/bomberman.jpg)
 
 ### Ideas
